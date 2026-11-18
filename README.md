@@ -1,67 +1,193 @@
-# 🌸 Hi, I'm Rachida Aidaoui!
+<!-- 🌸 HEADER -->
+<div align="center">
 
-### 💻 Computer Science Student | Software Developer 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rachida%20Aidaoui&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-Welcome to my GitHub profile! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hello%2C+welcome+to+my+profile+%F0%9F%8C%B8;Software+Developer+%F0%9F%92%BB;Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;Learning+and+building+every+day+%E2%9C%A8" alt="Typing SVG"/>
 
-I'm a computer science, passionate about software development, artificial intelligence, and building useful applications.
-
-I enjoy learning new technologies, solving problems, and turning ideas into real projects. 🚀
-
----
-
-### 🌷 About Me
-
-- 🎓 Computer Science 
-- 💻 Interested in Software Development and Artificial Intelligence
-- 🌱 Improving my skills through practical projects
-- 📍 Morocco
-- 📧 Contact: **aidaoui.rachida@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Technologies & Tools
+## 💜 About Me
 
-**Programming Languages**
+```python
+class Rachida:
+    def __init__(self):
+        self.name = "Rachida Aidaoui"
+        self.education = "Computer Science Student @ ISMAGI"
+        self.location = "Morocco 🇲🇦"
+        self.interests = [
+            "Software Development",
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Computer Vision",
+            "Big Data"
+        ]
+        self.current_goal = "Building intelligent applications 🚀"
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile! 💜")
 
-**Web Development**
+me = Rachida()
+me.say_hi()
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+🎓 Computer Science student passionate about technology and innovation.
 
-**Artificial Intelligence & Data**
+💻 I enjoy developing applications and exploring the world of Artificial Intelligence.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![Big Data](https://img.shields.io/badge/Big%20Data-6A5ACD?style=for-the-badge)
+🧠 Currently learning Deep Learning, Computer Vision and Big Data.
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aidaouirachida&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidaouirachida&layout=compact&theme=radical)
+🌱 Always learning, experimenting and building new projects.
 
 ---
 
-### 💌 Let's Connect
+## 🌷 My Tech Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-aidaouirachida-181717?style=for-the-badge&logo=github)](https://github.com/aidaouirachida)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidaoui.rachida@gmail.com)
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,bootstrap" />
+</p>
+
+### AI & Data Science
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
-✨ *"Learning, building, and growing one project at a time."*
+## ✨ Currently Exploring
 
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+- Deep Learning
+- CNN Architecture
+- Computer Vision
+- Neural Networks
+
+</td>
+<td width="50%">
+
+### 📊 Data Engineering
+- Big Data
+- Apache Kafka
+- Data Streaming
+- Data Processing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌸 Idarati
+AI conversational assistant for Moroccan administrative procedures.
+
+**Tech:** Python · NLP · RAG · TF-IDF
+
+</td>
+<td width="50%">
+
+### 🛍️ SmartShelf AI
+Intelligent product recognition using Computer Vision.
+
+**Tech:** Python · CNN · TensorFlow · OpenCV
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏪 SmartStock Hanout AI
+Intelligent inventory management for neighborhood stores.
+
+**Tech:** AI · Big Data · Deep Learning
+
+</td>
+<td width="50%">
+
+### 🚀 More projects coming soon...
+
+Always exploring new ideas and technologies!
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aidaouirachida&show_icons=true&theme=rose_pine&hide_border=true&title_color=c084fc&icon_color=f472b6&bg_color=00000000" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidaouirachida&layout=compact&theme=rose_pine&hide_border=true&title_color=c084fc&bg_color=00000000" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aidaouirachida&theme=rose-pine&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/aidaouirachida/aidaouirachida/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 💌 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/aidaouirachida">
+<img src="https://img.shields.io/badge/GitHub-242038?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:aidaoui.rachida@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 Thank you for visiting my profile!
+
+*Dream · Learn · Code · Repeat* 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+</div>
