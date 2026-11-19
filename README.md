@@ -3,12 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rachida%20Aidaoui&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hello%2C+welcome+to+my+profile+%F0%9F%8C%B8;Software+Developer+%F0%9F%92%BB;Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;Learning+and+building+every+day+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hello%2C+welcome+to+my+profile+%F0%9F%8C%B8;Software+Developer+%F0%9F%92%BB;Artificial+Intelligence+%F0%9F%A4%96;Learning+and+building+every+day+%E2%9C%A8" alt="Typing SVG"/>
 
 </div>
 
 ---
-
 ## 💜 About Me
 
 ```python
@@ -36,8 +35,6 @@ me.say_hi()
 🎓 Computer Science student passionate about technology and innovation.
 
 💻 I enjoy developing applications and exploring the world of Artificial Intelligence.
-
-🧠 Currently learning Deep Learning, Computer Vision and Big Data.
 
 🌱 Always learning, experimenting and building new projects.
 
@@ -120,16 +117,6 @@ Always exploring new ideas and technologies!
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidaouirachida&theme=rose-pine&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/aidaouirachida/aidaouirachida/output/github-contribution-grid-snake.svg)
 
 </div>
 
