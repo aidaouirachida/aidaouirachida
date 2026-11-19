@@ -1,193 +1,44 @@
-<!-- 🌸 HEADER -->
-<div align="center">
+&#x20;\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rachida%20Aidaoui&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=F4B6D2,CEB5F6,9D8AE8&height=220&section=header&text=RACHIDA%20AIDAOUI&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=F4B6D2,CEB5F6,9D8AE8\&height=220\&section=header\&text=RACHIDA%20AIDAOUI\&fontSize=48\&fontColor=ffffff\&fontAlignY=40\&desc=Software%20Developer%20%7C%20AI%20Enthusiast\&descSize=18\&descAlignY=60\&animation=fadeIn)" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hello%2C+welcome+to+my+profile+%F0%9F%8C%B8;Software+Developer+%F0%9F%92%BB;Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;Learning+and+building+every+day+%E2%9C%A8" alt="Typing SVG"/>
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Building+beautiful+digital+experiences;%F0%9F%92%BB+Software+Development;%F0%9F%A4%96+Artificial+Intelligence;%F0%9F%8C%B8+Learning+%26+Growing+Every+Day](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=22\&duration=3000\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=650\&lines=%E2%9C%A8+Building+beautiful+digital+experiences;%F0%9F%92%BB+Software+Development;%F0%9F%A4%96+Artificial+Intelligence;%F0%9F%8C%B8+Learning+%26+Growing+Every+Day)" />
 
-</div>
+\<br/>
 
----
+\<a href="[https://github.com/aidaouirachida](https://github.com/aidaouirachida)"> \<img src="[https://img.shields.io/badge/GITHUB-242038?style=for-the-badge&logo=github&logoColor=F4B6D2](https://img.shields.io/badge/GITHUB-242038?style=for-the-badge\&logo=github\&logoColor=F4B6D2)"/> \</a> \<a href="mailto\:aidaoui.rachida\@gmail.com"> \<img src="[https://img.shields.io/badge/EMAIL-C084FC?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/EMAIL-C084FC?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a>
 
-## 💜 About Me
+\<br/>\<br/>
 
-```python
-class Rachida:
-    def __init__(self):
-        self.name = "Rachida Aidaoui"
-        self.education = "Computer Science Student @ ISMAGI"
-        self.location = "Morocco 🇲🇦"
-        self.interests = [
-            "Software Development",
-            "Artificial Intelligence",
-            "Deep Learning",
-            "Computer Vision",
-            "Big Data"
-        ]
-        self.current_goal = "Building intelligent applications 🚀"
+\<img src="[https://img.shields.io/badge/PYTHON-9B8AE6?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/PYTHON-9B8AE6?style=for-the-badge\&logo=python\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/JAVASCRIPT-F4D35E?style=for-the-badge&logo=javascript&logoColor=242038](https://img.shields.io/badge/JAVASCRIPT-F4D35E?style=for-the-badge\&logo=javascript\&logoColor=242038)"/> \<img src="[https://img.shields.io/badge/HTML5-E8A0BF?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E8A0BF?style=for-the-badge\&logo=html5\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/CSS3-BBA0E8?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-BBA0E8?style=for-the-badge\&logo=css3\&logoColor=white)"/>
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile! 💜")
+\<br/>
 
-me = Rachida()
-me.say_hi()
-```
+\<img src="[https://img.shields.io/badge/TYPESCRIPT-8E79D6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TYPESCRIPT-8E79D6?style=for-the-badge\&logo=typescript\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/REACT-E8A0BF?style=for-the-badge&logo=react&logoColor=242038](https://img.shields.io/badge/REACT-E8A0BF?style=for-the-badge\&logo=react\&logoColor=242038)"/> \<img src="[https://img.shields.io/badge/NEXT.JS-242038?style=for-the-badge&logo=next.js&logoColor=white](https://img.shields.io/badge/NEXT.JS-242038?style=for-the-badge\&logo=next.js\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/NODE.JS-9B8AE6?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/NODE.JS-9B8AE6?style=for-the-badge\&logo=node.js\&logoColor=white)"/>
 
-🎓 Computer Science student passionate about technology and innovation.
+\<br/>
 
-💻 I enjoy developing applications and exploring the world of Artificial Intelligence.
+\<img src="[https://img.shields.io/badge/GRAPHQL-E8A0BF?style=for-the-badge&logo=graphql&logoColor=white](https://img.shields.io/badge/GRAPHQL-E8A0BF?style=for-the-badge\&logo=graphql\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/MONGODB-8E79D6?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MONGODB-8E79D6?style=for-the-badge\&logo=mongodb\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/TAILWIND_CSS-C5A8F5?style=for-the-badge&logo=tailwindcss&logoColor=242038](https://img.shields.io/badge/TAILWIND_CSS-C5A8F5?style=for-the-badge\&logo=tailwindcss\&logoColor=242038)"/>
+\<img src="[https://img.shields.io/badge/DOCKER-BBA0E8?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DOCKER-BBA0E8?style=for-the-badge\&logo=docker\&logoColor=white)"/>
 
-🧠 Currently learning Deep Learning, Computer Vision and Big Data.
+\<br/>\<br/>
 
-🌱 Always learning, experimenting and building new projects.
+\<img src="[https://img.shields.io/badge/🎓\_COMPUTER_SCIENCE_STUDENT-E8A0BF?style=for-the-badge](https://img.shields.io/badge/🎓_COMPUTER_SCIENCE_STUDENT-E8A0BF?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/🤖\_AI\_&\_TECHNOLOGY-9B8AE6?style=for-the-badge](https://img.shields.io/badge/🤖_AI_&_TECHNOLOGY-9B8AE6?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/📍\_MOROCCO-C5A8F5?style=for-the-badge](https://img.shields.io/badge/📍_MOROCCO-C5A8F5?style=for-the-badge)"/>
+
+\<br/>\<br/>
+
+\<img src="[https://komarev.com/ghpvc/?username=aidaouirachida&label=PROFILE%20VIEWS&color=C084FC&style=for-the-badge](https://komarev.com/ghpvc/?username=aidaouirachida\&label=PROFILE%20VIEWS\&color=C084FC\&style=for-the-badge)" />
+
+\</div>
 
 ---
 
-## 🌷 My Tech Stack
+\<div align="center">
 
-### Programming Languages
+### 🌸 *Dream · Learn · Create · Innovate* 🌸
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
-### Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=django,bootstrap" />
-</p>
-
-### AI & Data Science
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-## ✨ Currently Exploring
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-- Deep Learning
-- CNN Architecture
-- Computer Vision
-- Neural Networks
-
-</td>
-<td width="50%">
-
-### 📊 Data Engineering
-- Big Data
-- Apache Kafka
-- Data Streaming
-- Data Processing
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌸 Idarati
-AI conversational assistant for Moroccan administrative procedures.
-
-**Tech:** Python · NLP · RAG · TF-IDF
-
-</td>
-<td width="50%">
-
-### 🛍️ SmartShelf AI
-Intelligent product recognition using Computer Vision.
-
-**Tech:** Python · CNN · TensorFlow · OpenCV
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏪 SmartStock Hanout AI
-Intelligent inventory management for neighborhood stores.
-
-**Tech:** AI · Big Data · Deep Learning
-
-</td>
-<td width="50%">
-
-### 🚀 More projects coming soon...
-
-Always exploring new ideas and technologies!
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aidaouirachida&show_icons=true&theme=rose_pine&hide_border=true&title_color=c084fc&icon_color=f472b6&bg_color=00000000" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidaouirachida&layout=compact&theme=rose_pine&hide_border=true&title_color=c084fc&bg_color=00000000" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aidaouirachida&theme=rose-pine&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/aidaouirachida/aidaouirachida/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 💌 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/aidaouirachida">
-<img src="https://img.shields.io/badge/GitHub-242038?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:aidaoui.rachida@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌸 Thank you for visiting my profile!
-
-*Dream · Learn · Code · Repeat* 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-
-</div>
+\</div>
