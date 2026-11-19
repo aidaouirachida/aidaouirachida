@@ -15,7 +15,7 @@
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,React,Node.js,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,React,js,html,css" />
 </p>
 
 ### Web Development
@@ -35,33 +35,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
-
-## ✨ Currently Exploring
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-- Deep Learning
-- CNN Architecture
-- Computer Vision
-- Neural Networks
-
-</td>
-<td width="50%">
-
-### 📊 Data Engineering
-- Big Data
-- Apache Kafka
-- Data Streaming
-- Data Processing
-
-</td>
-</tr>
-</table>
 
 ---
 
